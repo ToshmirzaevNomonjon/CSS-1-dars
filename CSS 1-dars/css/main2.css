@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Poppins';
+}
+body{
+    font-family: 'Poppins',sans-serif;
+    font-style: italic;
+}
+body{
+    background-color: brown;
+    background-image:url("rasmlar/00.jpg");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 100px 200px;
+}
